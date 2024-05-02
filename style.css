@@ -402,3 +402,13 @@ footer {
 footer p {
     text-align: center;
 }
+
+/* VOLUNTEER AND LEADERSHIP */
+#volunteer {
+    position: relative;
+}
+
+.section-container-vol {
+    gap: 4rem;
+    height: 40%
+}
